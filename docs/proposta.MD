@@ -87,7 +87,11 @@ Explique quando a partida termina ou como o jogador perde. Exemplos: esgotar as 
 Descreva brevemente os elementos mais importantes, sem precisar detalhar a implementação.
 
 - **Personagem ou elemento principal:**
+<<<<<<< HEAD
 > O Programador (Prestes a ficar desempregado).
+=======
+> O Programador (Prestes a ficar em desemprego).
+>>>>>>> 5045b6df4feb8c508076b1ab28b484739e9c5e35
 - **Obstáculos ou desafios:**
 > As tarefas e o seu chefe, juntamente com o tempo.
 - **Itens ou objetos de interação (se houver):**
@@ -101,6 +105,7 @@ Informe como o jogador vai interagir com o jogo (por exemplo, setas para movimen
 
 **Controles:**
 
+<<<<<<< HEAD
 > W = Andar para frente.
 > A = Andar para a esquerda.
 > S = Andar para trás.
@@ -108,6 +113,13 @@ Informe como o jogador vai interagir com o jogo (por exemplo, setas para movimen
 > Seta Esquerda - Girar para a esquerda.
 > Seta Direita - Girar para a direita.
 > Mouse1 = Botão de interação.
+=======
+> W = Ir para frente
+> A = Girar para a esquerda
+> S = Ir para trás
+> D = Girar para a direita
+> Mouse1 = Botão de interação
+>>>>>>> 5045b6df4feb8c508076b1ab28b484739e9c5e35
 
 ## 12. Principais dificuldades esperadas
 
@@ -123,7 +135,11 @@ Descreva a **versão mais simples que já seria jogável**, com as interações 
 
 **Escopo mínimo:**
 
+<<<<<<< HEAD
 > Cenário 3D (Estilo DOOM/Wolfenstein 3D) funcional.
+=======
+> Cenário 3D (Estilo DOOM) funcional.
+>>>>>>> 5045b6df4feb8c508076b1ab28b484739e9c5e35
 > Errar uma tarefa te faz perder uma chance, e não conta como completa. (mas diminui o total de tarefas).
 > O chefe aparecera a cada 30 segundos, você deve interagir com ele ou perderá uma chance, a não ser que você esteja em uma tarefa. Ele agirá como um inimigo do DOOM, chegando perto de você e esperando por alguns segundos a interação.
 > As tarefas serão perguntas de programação simples com resposta em lowercase.
